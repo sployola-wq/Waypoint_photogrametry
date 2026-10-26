@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix DJI WPML Photogrammetry Mission Planner",
+  "description": "Planificador de misiones fotogramétricas aéreas con cálculo de grilla lawnmower y exportación en formato DJI Waypoint 3.0 KMZ/WPML.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
